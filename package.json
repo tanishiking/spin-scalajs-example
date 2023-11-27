@@ -1,0 +1,9 @@
+{
+  "scripts": {
+  },
+  "dependencies": {
+    "@fermyon/spin-sdk": "0.6.0"
+  },
+  "devDependencies": {},
+  "private": true
+}
